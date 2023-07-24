@@ -12,6 +12,7 @@ programa
 		
 		escreva("a temperatura em kelvin é : ", k)
 		escreva("a temperatura em Fahrenheit é : ", f)
+		escreva("elvys aqui")
 	}
 }
 
