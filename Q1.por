@@ -8,7 +8,7 @@ programa
 		leia (c)
 
 		k = c + 273.15
-		f = 1.8*c + 32
+		f = 1.8*c + 32 aquii ooo
 		
 		escreva("a temperatura em kelvin é : ", k)
 		escreva("a temperatura em Fahrenheit é : ", f)
