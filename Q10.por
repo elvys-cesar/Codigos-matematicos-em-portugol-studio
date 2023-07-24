@@ -9,6 +9,7 @@ programa
 
 		idade = 2017 - ano
 		escreva("Sua idade é ", idade)
+		escreva('Nada aqui:')
 	}
 }
 /* $$$ Portugol Studio $$$ 
